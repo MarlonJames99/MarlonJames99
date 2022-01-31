@@ -1,6 +1,6 @@
 ## Hey, I'm Marlon James 👋
 
-- 🔭 I'm working as Front-end web developer
+- 🔭 I'm working as developer
 - 🌱 Learning about HTML, CSS And JavaScript
 - 📫 Reach me at: marlonjamesdev@gmail.com
 - 😄 Pronouns: He/His
