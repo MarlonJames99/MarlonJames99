@@ -1,6 +1,5 @@
 ## Hey, I'm Marlon James 👋
 
-- 🔭 I'm working as developer
 - 🌱 Learning about JavaScript
 - 📫 Reach me at: marlonjamesdev@gmail.com
 - 😄 Pronouns: He/His
