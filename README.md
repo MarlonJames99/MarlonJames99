@@ -7,8 +7,8 @@ Actually learning more about Javascript.
 ## Github stats:
 <div align="center">
   <a href="https://github.com/MarlonJames99">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MarlonJames99&hide_title=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true&"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJames99&hide_title=true&layout=compact&langs_count=7&theme=dark&"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MarlonJames99&hide_title=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJames99&hide_title=true&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
   
 <img align="right" alt="Image of a young man looking to a laptop that is apparently showing codes on the screen. This image was designed by catalyststuff / Freepik" height="400" src="https://user-images.githubusercontent.com/97669160/166078648-1c075977-2f53-4de2-a17e-25204f556b8b.png"><br><br>
