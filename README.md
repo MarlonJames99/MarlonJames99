@@ -1,33 +1,34 @@
 # About me:
 Hey! I'm Marlon James, a 22 years old developer. <br>
-I'm born and raised in Rio de Janeiro. But also lived in Buenos Aires, Argentina for little more than 3 years.<br>
+I'm born and raised in Rio de Janeiro. But also lived in Buenos Aires, Argentina for a little more than 3 years.<br>
 I speak brazilian portuguese, spanish and english.<br>
 Actually learning more about Javascript.
 
 ## Github stats:
 <div align="center">
   <a href="https://github.com/MarlonJames99">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=MarlonJames99&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
-  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com?user=MarlonJames99&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJames99&hide_title=true&layout=compact&langs_count=7&theme=midnight-purple&exclude_repo=The_Game_Store"/>
-</div><br>
+  <img height="140em" src="https://awesome-github-stats.azurewebsites.net/user-stats/MarlonJames99?cardType=level-alternate&theme=radical&Ring=d8bc3e&Background=000000&Text=FFFFFF&Title=d8bc3e&Border=FFFFFF" />
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=MarlonJames99&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=d8bc3e&fire=d8bc3e&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=d8bc3e&sideLabels=FFFFFF&dates=FFFFFF"/>
+</div><br><br><br>
   
-<img align="right" alt="Image of a young man looking to a laptop that is apparently showing codes on the screen. This image was designed by catalyststuff / Freepik" height="380" src="https://user-images.githubusercontent.com/97669160/166078648-1c075977-2f53-4de2-a17e-25204f556b8b.png"><br><br>
+<div>
+  <img align="right" width="350" height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJames99&hide_title=true&layout=default&langs_count=7&theme=swift&exclude_repo=The_Game_Store"/>
   
 ### Main skills:
-  <div>
-  <img align="center" alt="HTML logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Javascript logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <div align="left">
+    <img align="center" alt="HTML logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Javascript logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
   
 ### Tools:
-  <div>  
-  <img align="center" alt="Visual Studio Code logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Bootstrap logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <div align="left">  
+    <img align="center" alt="Visual Studio Code logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Git logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Bootstrap logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   </div>
-</div>
+  
+  </div>
  
 ##
   
@@ -41,9 +42,10 @@ Actually learning more about Javascript.
 
 ## Some of my projects:
 <div align="center">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Flappy_Bird&theme=midnight-purple" />
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Space_Invaders&theme=midnight-purple" />
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Genius_Memory&theme=midnight-purple" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Flappy_Bird&bg_color=000&icon_color=d8bc3e&text_color=fff&title_color=d8bc3e" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Space_Invaders&bg_color=000&icon_color=d8bc3e&text_color=fff&title_color=d8bc3e" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Genius_Memory&bg_color=000&icon_color=d8bc3e&text_color=fff&title_color=d8bc3e" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Dino_Game&bg_color=000&icon_color=d8bc3e&text_color=fff&title_color=d8bc3e" />
 </div><br>
   
 <div align="center">
