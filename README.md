@@ -11,8 +11,10 @@ Actually learning more about Javascript.
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=MarlonJames99&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=d8bc3e&fire=d8bc3e&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=d8bc3e&sideLabels=FFFFFF&dates=FFFFFF"/>
 </div><br><br><br>
   
+<!--   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MarlonJames99&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=000&icon_color=d8bc3e&text_color=fff"/> -->
+  
 <div>
-  <img align="right" width="350" height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJames99&hide_title=true&layout=default&langs_count=7&theme=swift&exclude_repo=The_Game_Store"/>
+  <img align="right" width="350" height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJames99&hide_title=true&layout=default&langs_count=7&theme=swift&border_radius=25&border_color=000&exclude_repo=The_Game_Store"/>
   
 ### Main skills:
   <div align="left">
