@@ -25,7 +25,8 @@ Actually learning more about Javascript.
   </div>
   
 ### Tools:
-  <div align="left">  
+  <div align="left"> 
+    <img align="center" alt="Canva logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
     <img align="center" alt="Figma logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Visual Studio Code logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Git logo" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
