@@ -1,5 +1,5 @@
 # About me:
-Hey! I'm Marlon James, a 22 years old developer. <br>
+Hey! I'm Marlon James, a 23 years old developer. <br>
 I'm born and raised in Rio de Janeiro. But also lived in Buenos Aires, Argentina for a little more than 3 years.<br>
 I speak brazilian portuguese, spanish and english.<br>
 Actually learning more about Javascript.
