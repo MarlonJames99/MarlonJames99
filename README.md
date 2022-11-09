@@ -46,7 +46,7 @@ Actually learning more about Javascript.
 
 <br>
 
-## Some of my projects:
+<!-- ## Some of my projects:
 <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Flappy_Bird&bg_color=000&icon_color=d8bc3e&text_color=fff&title_color=d8bc3e&border_radius=15" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Space_Invaders&bg_color=000&icon_color=d8bc3e&text_color=fff&title_color=d8bc3e&border_radius=15" />
@@ -54,7 +54,7 @@ Actually learning more about Javascript.
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlonJames99&repo=Dino_Game&bg_color=000&icon_color=d8bc3e&text_color=fff&title_color=d8bc3e&border_radius=15" />
 </div>
   
-  ##
+  ## -->
   
 <div align="center">
   
