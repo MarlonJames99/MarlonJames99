@@ -2,7 +2,7 @@
 Hey! I'm Marlon James, a 23 years old developer. <br>
 I'm born and raised in Rio de Janeiro. But also lived in Buenos Aires, Argentina for a little more than 3 years.<br>
 I speak brazilian portuguese, spanish and english.<br>
-Actually learning more about Javascript.
+Actually studying Software Engineering.
 
 ## Github stats:
 <div align="center">
@@ -11,10 +11,8 @@ Actually learning more about Javascript.
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=MarlonJames99&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=d8bc3e&fire=d8bc3e&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=d8bc3e&sideLabels=FFFFFF&dates=FFFFFF"/>
 </div><br><br><br>
   
-<!--   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MarlonJames99&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=000&icon_color=d8bc3e&text_color=fff"/> -->
-  
 <div>
-  <img align="right" width="350" height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJames99&hide_title=true&layout=default&langs_count=7&theme=swift&border_radius=15&border_color=000&exclude_repo=The_Game_Store"/>
+  <img align="right" width="350" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJames99&hide_title=true&layout=donut&langs_count=10&text_color=FFF&bg_color=000000&border_radius=5&border_color=FFF&exclude_repo=The_Game_Store"/> 
   
 ### Main skills:
   <div align="left">
@@ -39,7 +37,6 @@ Actually learning more about Javascript.
   
 <div> 
   <a href="mailto:marlonjamesdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"></a>
-  <a href="https://instagram.com/marlonjamesrc"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo"></a>
   <a href="https://www.linkedin.com/in/marlon-james-rc"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"></a> 
   <a href="https://discord.gg/xrVtsSYd"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo"></a> 
   
