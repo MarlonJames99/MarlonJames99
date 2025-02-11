@@ -1,5 +1,5 @@
 # About me:
-Hey! I'm Marlon James, a 24 years old developer. <br>
+Hey! I'm Marlon James, a 25 years old developer. <br>
 I'm born and raised in Rio de Janeiro. But also lived in Buenos Aires, Argentina for a little more than 3 years.<br>
 I speak brazilian portuguese, spanish and english.<br>
 Actually studying Software Engineering.
@@ -7,9 +7,23 @@ Actually studying Software Engineering.
 ## Github stats:
 <div align="center">
   <a href="https://github.com/MarlonJames99">
-  <img height="140em" src="https://awesome-github-stats.azurewebsites.net/user-stats/MarlonJames99?cardType=level-alternate&theme=radical&Ring=d8bc3e&Background=000000&Text=FFFFFF&Title=d8bc3e&Border=FFFFFF" />
+  <img height="140em" src="https://awesome-github-stats.azurewebsites.net/user-stats/MarlonJames99?cardType=level-alternate&theme=radical&Ring=d8bc3e&Background=000000&Text=FFFFFF&Title=d8bc3e&Border=FFFFFF"/>
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=MarlonJames99&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=d8bc3e&fire=d8bc3e&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=d8bc3e&sideLabels=FFFFFF&dates=FFFFFF"/>
-</div><br><br><br>
+</div><br>
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=MarlonJames99&color=FFD700&style=plastic&base=15&abbreviated=true)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarlonJames99&theme=monokai&&&rank=-C,-?&row=1&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br><br>
   
 <div>
   <img align="right" width="350" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJames99&hide_title=true&layout=donut&langs_count=10&text_color=FFF&bg_color=000000&border_radius=5&border_color=FFF&exclude_repo=The_Game_Store"/> 
