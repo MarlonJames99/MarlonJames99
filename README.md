@@ -3,6 +3,7 @@ Hey! I'm Marlon James, a 26 years old developer. <br>
 I'm born and raised in Rio de Janeiro. But also lived in Buenos Aires, Argentina for a little more than 3 years.<br>
 I speak brazilian portuguese, spanish and english.<br>
 Actually studying Software Engineering.
+Learning about AI and developing software brings value to people's lives.
 
 ## Github stats:
 <div align="center">
